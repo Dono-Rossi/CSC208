@@ -22,4 +22,7 @@ $\frac{a}{b}$
 $a^2$ <br />
 $a^3$ <br />
 $a^n$
-
+### Roots
+$\sqrt{a}$ <br />
+$\sqrt[3]{a}$ <br />
+$\sqrt[n]{a}$
