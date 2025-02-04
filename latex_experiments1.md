@@ -6,8 +6,9 @@ $$
 $$
 ### FUNCTIONS
 $$
-a+(b-a) <br />
+a+(b-a)
 $$
+<br />
 $a+b$ <br />
 $a-b$ <br />
 ### MULTIPLICATION
