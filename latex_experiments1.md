@@ -1,4 +1,4 @@
-** MATH
+# MATH
 
 ```
 $$
@@ -6,10 +6,8 @@ $$
 $$
 ```
 
-$a+b$
-
-$a-b$
-
-$a \times b$
-$a \ast b$
-$a \cdot b$
+* $a+b$
+* $a-b$
+* $a \times b$
+* $a \ast b$
+* $a \cdot b$
