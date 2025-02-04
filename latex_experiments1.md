@@ -6,7 +6,7 @@ $$
 $$
 ### FUNCTIONS
 $$
-a+(b-a)
+a+(b-a) <br />
 $$
 $a+b$ <br />
 $a-b$ <br />
