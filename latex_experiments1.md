@@ -1,22 +1,21 @@
 # LaTex Math
-### SUM Formula
+### Sum Formula
 $$
 \displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
 $$
-### FUNCTIONS
+### Imbedded Functions
 $$
 a+(b-a)
 $$
-
-### MULTIPLICATION
+### Multiplication
 $a \times b$ <br />
 $a \ast b$ <br />
-$a \cdot b$ <br />
-### DIVISION
+$a \cdot b$
+### Division
 $a \colon b$ <br />
 $a / b$ <br />
 $a \div b$ <br />
-$\frac{a}{b}$ <br />
+$\frac{a}{b}$
 
 ### Arithmetic
 
