@@ -6,16 +6,16 @@ $$
 $$
 ### FUNCTIONS
 $$
-a+(b-a_
+a+(b-a)
 $$
-* $a+b$
-* $A-B$
+$a+b$ <br />
+$a-b$ <br />
 ### MULTIPLICATION
-* $a \times b$
-* $a \ast b$
-* $a \cdot b$
+$a \times b$ <br />
+$a \ast b$ <br />
+$a \cdot b$ <br />
 ### DIVISION
-$a \colon b$
-$a / b$
-$a \div b$
-$\frac{a}{b}$
+$a \colon b$ <br />
+$a / b$ <br />
+$a \div b$ <br />
+$\frac{a}{b}$ <br />
