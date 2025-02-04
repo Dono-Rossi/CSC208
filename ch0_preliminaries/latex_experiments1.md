@@ -26,3 +26,10 @@ $a^n$
 $\sqrt{a}$ <br />
 $\sqrt[3]{a}$ <br />
 $\sqrt[n]{a}$
+### Comparison
+$3=1+2$
+$3\neq4$
+$a<b$
+$a>b$
+$a \leq b$
+$a \geq b$
