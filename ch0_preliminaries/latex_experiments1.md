@@ -13,3 +13,13 @@ $$
 $a \times b$ <br />
 $a \ast b$ <br />
 $a \cdot b$
+### Division
+$a \colon b$ <br />
+$a / b$ <br />
+$a \div b$ <br />
+$\frac{a}{b}$
+### Exponents
+$a^2$ <br />
+$a^3$ <br />
+$a^n$
+
