@@ -21,10 +21,10 @@ We most likely read this because our teacher wanted to stimulate our  curiosity,
 ## John Hopcroft and Robert Tarjan
 
 ### John Hopcroft
-*
-*
-*
+* American computer scientist born on October 7, 1939, in Seattle, Washington
+* He co-authored several influential textbooks, including "Formal Languages and Their Relation to Automata" and "The Design and Analysis of Computer Algorithms" with Jeffrey Ullman
+* Hopcroft is a professor emeritus at Cornell University and has also held positions at Princeton University and other prestigious institutions
 ### Robert Tarjan
-* 
-*
-*
+* Robert Tarjan was born on April 30, 1948, in Pomona, California
+* He co-invented several important algorithms, including the strongly connected components algorithm, splay trees, and Fibonacci heaps
+* Currently the James S. McDonnell Distinguished University Professor of Computer Science at Princeton University
