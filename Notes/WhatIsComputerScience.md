@@ -13,8 +13,10 @@ Computer science is often though to be a science or engineering discipline. Howe
 
 * Aristotles philosphy: Mathematicians don’t need hypotheses. They only need to state their assumptions and use logic to derive results. However, as seen above, unless there’s a rigorous way to test an assumption’s validity, it’s a dangerous approach to apply to the real world. These assumptions led Aristotle to conclude the heart was the center of consciousness.
 
+In conclusion, the author argues that acknowledging CS as a philosophical discipline rather than strictly a science or engineering field could benefit both education and practice in the field. They advocate for using appropriate tools and recognizing the strengths and limitations of each discipline. Furthermore, the author points out potential risks to skipping empirical data and sticking with assumptions 
 
 ## Why did we read this?
+We most likely read this because our teacher wanted to stimulate our  curiosity, encourage critical thinking, and provide a richer context for understanding the complexities of computer science.
 
 ## John Hopcroft and Robert Tarjan
 
