@@ -37,3 +37,5 @@ Discrete structures are mathematical are fundamental concepts in math, and are u
 	4. Relations: Describe the relationships between elements of sets. For example, a relation can define pairs of elements that are related in some way. These relations have properties like reflexivity, antisymmetry, and transitivity, which help us understand them better.
 
 	5. Graphs: Consist of vertices (nodes) connected by edges (lines). Used to model relationships and structures in various fields, like computer networks or social networks.
+
+
