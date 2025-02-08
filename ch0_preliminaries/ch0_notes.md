@@ -7,10 +7,10 @@
 ## Summarization
 
 * Discrete mathematics is used in various fields such as computer science, cryptography, and network theory, making it an essential area of study for solving practical problems.
-
-### Key Concepts
-
-
+* Tools in discrete math are named *discrete structures*.
+* If a set consists of all real numbers it is not discrete.
+* Discrete sets are sets that have seperate elements with each input being individual, hence the name discrete.
+* A set is discrete if the elements are seperate or if each input is an individual.
 
 ## Questions
 
