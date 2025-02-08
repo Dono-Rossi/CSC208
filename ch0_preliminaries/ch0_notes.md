@@ -12,6 +12,7 @@
 * Discrete sets are sets that have seperate elements with each input being individual, hence the name discrete.
 * A set is discrete if the elements are seperate or if each input is an individual.
 
+A futher summary of concepts discussed can be seen below.
 ## Questions
 
 * ### What is discrete math?
