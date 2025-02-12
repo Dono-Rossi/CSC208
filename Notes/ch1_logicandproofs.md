@@ -1,8 +1,10 @@
 # Logic and Proofs
 
 ### Notes
-
-
+* The main goal of math is to establish mathematical truths.
+* A statement is atomic if it cannot be divided into smaller statements but is called molecular if it can.
+* Statements must be boolean values.
+* A sentence with a variable where the value is not given is not a statement.
 ## Challenges
 #### Challenge 1 
 Solution is not P or Q
