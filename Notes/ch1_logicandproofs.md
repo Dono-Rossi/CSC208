@@ -16,9 +16,9 @@ Solution is not P or Q
 |  0  |  1  |     0     |    1     |    1     |      1       |
 |  0  |  0  |     0     |    0     |    1     |      1       |
 #### Challenge 2
-Troll 1: Knight
-Troll 2: Knave
-Troll 3: Knight
+- Troll 1: Knight
+- Troll 2: Knave
+- Troll 3: Knight
 ### Definitions
 
 * premise: All statements but the last in an argument
