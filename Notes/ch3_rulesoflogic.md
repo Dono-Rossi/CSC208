@@ -56,9 +56,8 @@ Prove that the statements ~(P => Q) and P $\land$ ~Q are logically equivalent wi
 ### 1.3.10
 Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equivalent?
 
-+-----+-----+-----+-----------------+------------------------+
 |  p  |  q  |  r  |  (p or q) => r  |  (p => r) or (q => r)  |
-|-----+-----+-----+-----------------+------------------------|
+|-----|-----|-----|-----------------|------------------------|
 |  1  |  1  |  1  |        1        |           1            |
 |  1  |  1  |  0  |        0        |           0            |
 |  1  |  0  |  1  |        1        |           1            |
@@ -67,8 +66,6 @@ Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equi
 |  0  |  1  |  0  |        0        |           1            |
 |  0  |  0  |  1  |        1        |           1            |
 |  0  |  0  |  0  |        1        |           1            |
-+-----+-----+-----+-----------------+------------------------+
-
 
 By looking at rows four and six it can be deduced that these statements are not logically equivalent.
 ---
