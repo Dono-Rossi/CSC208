@@ -4,7 +4,7 @@
 
 - **Importance of Implications:** Implications are significant in mathematics and logic because they are used to make general claims and reason about various mathematical objects.
 
-*** Vocab
+## Vocab
 
 - **Conditional**: Also known as an Implication P → Q
 - **Converse**: Regarding a certain implication, it is the opposite. Using the above defined implication it would be Q → P
