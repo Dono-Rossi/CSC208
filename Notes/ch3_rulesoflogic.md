@@ -1,7 +1,16 @@
 # Rules of Logic
 
 ## Notes
-
+- **Truth Tables**
+	- Truth tables are used to explore the relationships between different logical statements.
+	- They help determine whether statements are logically equivalent.
+	- A truth table lists all possible combinations of truth values for a set of statements and their resulting truth values.
+- **Logical Equivalence**
+	- Two statements are logically equivalent if they have the same truth values in all possible scenarios.
+	- Logical equivalence allows us to simplify complex logical statements.
+- **Deduction Rules**
+	- Deduction rules are used to derive conclusions from premises in a logically valid manner.
+	- Examples include Modus Ponens (if 𝑃 → 𝑄 and 𝑃 are true, then 𝑄 must be true) and Modus Tollens (if 𝑃 → 𝑄 and ¬𝑄 are true, then ¬𝑃 must be true).
 
 ## Questions from Blu's list
 
