@@ -52,7 +52,9 @@ Yes, the two statements are logically equivalent due to De Morgan's Law.
 
 ### 1.3.8
 Prove that the statements ~(P => Q) and P $\land$ ~Q are logically equivalent without using truth tables.
+
 ---
+
 ### 1.3.10
 Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equivalent?
 
@@ -68,9 +70,36 @@ Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equi
 |  0  |  0  |  0  |        1        |           1            |
 
 By looking at rows four and six it can be deduced that these statements are not logically equivalent.
+
 ---
+
 ### 1.3.14
 Show that the following is a valid deduction rule.
+ p => q<br>
+~p => q<br>
+\--------<br>
+$\therefore$ q
+
+|  p  |  q  |  ~p  |  p  => q  |  ~p => q  |
+|-----|-----|------|-----------|-----------|
+|  1  |  1  |  1   |     1     |     1     |
+|  1  |  1  |  0   |     1     |     1     |
+|  1  |  0  |  1   |     0     |     0     |
+|  1  |  0  |  0   |     0     |     1     |
+|  0  |  1  |  1   |     1     |     1     |
+|  0  |  1  |  0   |     1     |     1     |
+|  0  |  0  |  1   |     1     |     0     |
+|  0  |  0  |  0   |     1     |     1     |
+
+q is true in the same rows that (p => q) and (~p => q) are true therefore it's a valid deduction.
+
+---
 
 ### 1.3.15
-Decide whether the following is a valid deduction rule.
+Decide whether the following is a valid deduction rule. <br>
+p => r <br>
+q => r <br>
+  r <br>
+\----<br>
+
+$\therefore$ p $\lor$ q
