@@ -25,6 +25,9 @@ conjunction or disjunction of negations, respectively. Written as $\neg (P \cap 
 
 An implication is equivalent to a disjuction where the first term is negated. This is written as $\neg(P \implies Q) \equiv \neg P \lor Q$.
 
+#### Double Negation
+$\neg \neg P \equiv P$.
+
 ## Questions from Blu's list
 
 ### 1.3.2
