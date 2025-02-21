@@ -12,10 +12,23 @@
 	- Deduction rules are used to derive conclusions from premises in a logically valid manner.
 	- Examples include Modus Ponens (if 𝑃 → 𝑄 and 𝑃 are true, then 𝑄 must be true) and Modus Tollens (if 𝑃 → 𝑄 and ¬𝑄 are true, then ¬𝑃 must be true).
 
+### Important Theorems and rules
+
+#### Theorem 1.3.5
+An implication is logivally equivalent to its contrapositive. Written as $P \implies Q \equiv \neg Q \implies \neg P$.
+
+#### De Morgan's Law
+The negation of a disjunction or conjunction is logically equivalt to a
+conjunction or disjunction of negations, respectively. Written as $\neg (P \cap Q) \equiv \neg P \cup \neg Q$ and $\neg (P \cup Q) \equiv \neg P \cap \neg Q$.
+
+#### Implications are Disjunctions
+
+An implication is equivalent to a disjuction where the first term is negated. This is written as $\neg(P \implies Q) \equiv \neg P \lor Q$.
+
 ## Questions from Blu's list
 
 ### 1.3.2
-#### Make a truth table for the statement ~P $\lor$ Q
+#### Make a truth table for the statement $\neg P \lor Q$.
 |  p  |  q  |  ~p or q  |
 |-----|-----|-----------|
 |  1  |  1  |     1     |
@@ -65,7 +78,7 @@ As implications are disjunctions, ~(P => Q) is equal to ~(~P $\lor$ Q). Now, usi
 ---
 
 ### 1.3.10
-Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equivalent?
+#### Are the statements (P $\lor$ Q) => R and (P => R) $\lor$ (Q => R) logically equivalent?
 
 |  p  |  q  |  r  |  (p or q) => r  |  (p => r) or (q => r)  |
 |-----|-----|-----|-----------------|------------------------|
