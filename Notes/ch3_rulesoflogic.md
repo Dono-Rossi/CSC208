@@ -23,10 +23,10 @@
 |  0  |  1  |     1     |
 |  0  |  0  |     1     |
 
+---
+
 ### 1.3.3
 #### Analyze the statement, “If you get more doubles than any other player, then you will lose, or if you lose, then you must have bought the most properties,” using truth tables.
-
-(D → L) ⋁ (L → P) Where D is if you get more doubles than any other player, L is you will lose, and P means you bought the most properties.
 
 |  d  |  l  |  p  |  d => l  |  l => p  |  (d => l) or (l => p)  |
 |-----|-----|-----|----------|----------|------------------------|
@@ -39,10 +39,12 @@
 |  0  |  0  |  1  |    1     |    1     |           1            |
 |  0  |  0  |  0  |    1     |    1     |           1            |
 
+(D → L) ⋁ (L → P) Where D is if you get more doubles than any other player, L is you will lose, and P means you bought the most properties.
+
+---
+
 ### 1.3.6
 #### Are the statements, “It will not rain or snow,” and, “It will not rain and it will not snow,” logically equivalent?
-
-Yes, the two statements are logically equivalent due to De Morgan's Law.
 
 |  r  |  s  |  ~(r or s)  |  ~r and ~s  |
 |-----|-----|-------------|-------------|
@@ -51,9 +53,14 @@ Yes, the two statements are logically equivalent due to De Morgan's Law.
 |  0  |  1  |      0      |      0      |
 |  0  |  0  |      1      |      1      |
 
+Yes, the two statements are logically equivalent due to De Morgan's Law.
+
+---
 
 ### 1.3.8
 #### Prove that the statements ~(P => Q) and P $\land$ ~Q are logically equivalent without using truth tables.
+
+As implications are disjunctions, ~(P => Q) is equal to ~(~P $\lor$ Q). Now, using DeMorgan's law, the negation of a disjuntion is logially equivalent to conjunction of negation, turning the disjunction into ~~P $\land$ ~Q. The negatives infront of the P to give P $\land$ ~Q.
 
 ---
 
@@ -104,7 +111,7 @@ q => r <br>
   r <br>
 \----<br>
 
-$\therefore$ p $\lor$ q
+$\therefore$ Q $\lor$ Q
 
 |  p  |  q  |  r  |  p  => q  |  q => r  |  p or q  |
 |-----|-----|-----|-----------|----------|----------|
@@ -117,4 +124,4 @@ $\therefore$ p $\lor$ q
 |  0  |  0  |  1  |     1     |    1     |    0     |
 |  0  |  0  |  0  |     1     |    1     |    0     |
 
-
+On the second-to-last row, all three premises of the argument are true, but the conclusion is false. Therefore, this is not a valid deduction rule.
